@@ -1,1 +1,3 @@
-Thsi is first code file
+This is first code file
+
+I am Java Devopler and Devopling Gaming Project.
